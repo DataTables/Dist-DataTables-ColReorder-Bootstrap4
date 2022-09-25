@@ -4,7 +4,7 @@
     "main": "js/colReorder.bootstrap4.js",
     "style": "css/colReorder.bootstrap4.css",
     "types": "./types/colReorder.bootstrap4.d.ts",
-    "version": "1.5.5",
+    "version": "1.5.6",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -22,8 +22,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-colreorder": ">=1.5.5",
-        "datatables.net-bs4": ">=1.11.5",
+        "datatables.net-colreorder": ">=1.5.6",
+        "datatables.net-bs4": ">=1.12.1",
         "jquery": ">=1.7"
     },
     "moduleType": [
