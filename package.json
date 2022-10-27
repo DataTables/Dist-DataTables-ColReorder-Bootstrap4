@@ -4,7 +4,7 @@
     "main": "js/colReorder.bootstrap4.js",
     "module": "js/colReorder.bootstrap4.mjs",
     "style": "css/colReorder.bootstrap4.css",
-    "types": "./types/colReorder.bootstrap4.d.ts",
+    "types": "./types/types.d.ts",
     "version": "1.5.6",
     "files": [
         "css/**/*.css",

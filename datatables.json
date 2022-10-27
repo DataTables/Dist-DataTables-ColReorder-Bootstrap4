@@ -10,7 +10,8 @@
         "css/colReorder.bootstrap4.min.css"
     ],
     "types": [
-        "types/colReorder.bootstrap4.d.ts"
+        "types/colReorder.bootstrap4.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/ColReorder",
     "last-tag": "1.5.6"
