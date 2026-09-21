@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-colreorder-bs4",
-    "description": "ColReorder for DataTables with styling for [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)",
+    "description": "ColReorder for DataTables with styling for Bootstrap4",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-ColReorder-Bootstrap4"
