@@ -39,9 +39,10 @@
     "exports": {
         ".": {
             "types": "./types/colReorder.bootstrap4.d.ts",
+            "style": "./css/colReorder.bootstrap4.css",
             "import": "./js/colReorder.bootstrap4.mjs",
-            "default": "./js/colReorder.bootstrap4.mjs",
-            "require": "./js/colReorder.bootstrap4.js"
+            "require": "./js/colReorder.bootstrap4.js",
+            "default": "./js/colReorder.bootstrap4.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
